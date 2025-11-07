@@ -6,20 +6,20 @@ I love exploring how systems connect, perform, and evolve — from low-level ope
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🌐 Fascinated by **networks, servers, and DevOps** practices.  
-- 💻 Skilled in **C++, Python, Node.js, and Docker**.  
-- 📱 Experienced with **Android Studio** and **Godot Engine** for app and game development.  
-- 🧠 Strong interest in **data analysis** and **system optimization**.  
-- 🐧 Daily user of **Ubuntu** and comfortable working in Linux environments.  
-- ⚙️ Passionate about **automation, containers, and scalable systems**.  
+- Fascinated by **networks, servers, and DevOps** practices.  
+- Skilled in **C++, Python, Node.js, and Docker**.  
+- Experienced with **Android Studio** and **Godot Engine** for app and game development.  
+- Strong interest in **data analysis** and **system optimization**.  
+- Daily user of **Ubuntu** and comfortable working in Linux environments.  
+- Passionate about **automation, containers, and scalable systems**.  
 
 I believe in learning by doing — I’m always looking for new challenges that combine creativity, problem-solving, and technology.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:**  
 `C++` | `Python` | `JavaScript` | `Java`  
@@ -35,27 +35,27 @@ I believe in learning by doing — I’m always looking for new challenges that 
 
 ---
 
-## 📈 What I'm Currently Doing
+## What I'm Currently Doing
 
-- 📚 Deepening my knowledge in **DevOps**, **container orchestration**, and **cloud technologies**.  
-- 🧩 Working on projects that merge **software engineering** with **AI and data analysis**.  
-- 💬 Collaborating in university and research projects related to **systems and technology**.
-
----
-
-## 🎯 Goals
-
-- 🚀 Contribute to open-source projects.  
-- 🧠 Build tools that make technology more accessible.  
-- 🌍 Grow as a developer capable of designing efficient, scalable systems.
+- Deepening my knowledge in **DevOps**, **container orchestration**, and **cloud technologies**.  
+- Working on projects that merge **software engineering** with **AI and data analysis**.  
+- Collaborating in university and research projects related to **systems and technology**.
 
 ---
 
-## 🌐 Connect with Me
+## Goals
 
-📫 **Email:** [sebasnocach@gmail.com](sebasnocach@gmail.com)  
-💼 **LinkedIn:** [www.linkedin.com/in/sebastian-chacon-mendoza](https://linkedin.com/in/sebastian-chacon-mendoza)  
-🐙 **GitHub:** [github.com/S3bas77](https://github.com/S3bas77)
+- Contribute to open-source projects.  
+- Build tools that make technology more accessible.  
+- Grow as a developer capable of designing efficient, scalable systems.
+
+---
+
+## Connect with Me
+
+**Email:** [sebasnocach@gmail.com](sebasnocach@gmail.com)  
+**LinkedIn:** [www.linkedin.com/in/sebastian-chacon-mendoza](https://linkedin.com/in/sebastian-chacon-mendoza)  
+**GitHub:** [github.com/S3bas77](https://github.com/S3bas77)
 
 ---
 
