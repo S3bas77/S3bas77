@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sebastian!
+# Hi there! I'm Sebastian
 
 I'm a **Systems Engineering student** at **Universidad Privada Boliviana (UPB La Paz)**, passionate about technology, innovation, and continuous learning.  
 
@@ -59,4 +59,4 @@ I believe in learning by doing — I’m always looking for new challenges that 
 
 ---
 
-⭐ *“If you're not progressing, you're regressing. So keep moving forward.”*  
+*“If you're not progressing, you're regressing. So keep moving forward.”*  
